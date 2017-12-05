@@ -12,3 +12,4 @@ A fingerprinter can use the information contained within the TCP headers to esti
 * A defense against clock skew replication attacks in wireless sensor networks
 * Hough transform-based clock skew measurement over network
 * A Clock Skew Replication Attack Detection Approach Utilizing the Resolution of System Time
+### [Code](https://github.com/xiaoxuanzi/go-clock-skew)
