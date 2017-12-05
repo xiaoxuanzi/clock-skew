@@ -13,4 +13,4 @@ A fingerprinter can use the information contained within the TCP headers to esti
 * Hough transform-based clock skew measurement over network
 * A Clock Skew Replication Attack Detection Approach Utilizing the Resolution of System Time
 ### Code
-* [Go](https://github.com/xiaoxuanzi/go-clock-skew)
+* [go-clock-skew](https://github.com/xiaoxuanzi/go-clock-skew)
